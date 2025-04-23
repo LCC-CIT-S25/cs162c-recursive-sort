@@ -1,5 +1,9 @@
 # Objective
 
+1. Practice recursive approaches to problem solving
+2. Practice sorting
+3. Practice use of 2D arrays
+
 ## Recursive sorting
 - [ ] Update README.md with description of the algorithms
 - [ ] Add a new file to implement a recursive integer sorting algorithm
