@@ -1,6 +1,6 @@
-# cs162c recursive algorithms
+# cs162n recursive algorithms
 
-cs162c Recursive algorithms
+cs162n Recursive algorithms
 
 There are two problems described in the [Assignment](Assignment.md) file
 
