@@ -31,7 +31,7 @@ class Program
         };
         int[,] expectedResult = {
             { 0, 1, 2, 13},
-            { -1, 2, 12, 6 }
+            { -1, 2, 6, 12 }
         };
         
         return TestRowSort(array0, expectedResult);
